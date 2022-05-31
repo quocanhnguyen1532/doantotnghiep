@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'QuicksandMedium';
+    src: url('../font/Quicksand-Medium/fonts/QuicksandMedium.eot');
+    src: url('../font/Quicksand-Medium/fonts/QuicksandMedium.eot') format('embedded-opentype'),
+         url('../font/Quicksand-Medium/fonts/QuicksandMedium.woff2') format('woff2'),
+         url('../font/Quicksand-Medium/fonts/QuicksandMedium.woff') format('woff'),
+         url('../font/Quicksand-Medium/fonts/QuicksandMedium.ttf') format('truetype'),
+         url('../font/Quicksand-Medium/fonts/QuicksandMedium.svg#QuicksandMedium') format('svg');
+}
+@font-face {
+    font-family: 'QuicksandRegular';
+    src: url('../font/Quicksand-Regular/fonts/QuicksandRegular.eot');
+    src: url('../font/Quicksand-Regular/fonts/QuicksandRegular.eot') format('embedded-opentype'),
+         url('../font/Quicksand-Regular/fonts/QuicksandRegular.woff2') format('woff2'),
+         url('../font/Quicksand-Regular/fonts/QuicksandRegular.woff') format('woff'),
+         url('../font/Quicksand-Regular/fonts/QuicksandRegular.ttf') format('truetype'),
+         url('../font/Quicksand-Regular/fonts/QuicksandRegular.svg#QuicksandRegular') format('svg');
+}
+@font-face {
+    font-family: 'QuicksandBold';
+    src: url('../font/Quicksand-Bold/fonts/QuicksandBold.eot');
+    src: url('../font/Quicksand-Bold/fonts/QuicksandBold.eot') format('embedded-opentype'),
+         url('../font/Quicksand-Bold/fonts/QuicksandBold.woff2') format('woff2'),
+         url('../font/Quicksand-Bold/fonts/QuicksandBold.woff') format('woff'),
+         url('../font/Quicksand-Bold/fonts/QuicksandBold.ttf') format('truetype'),
+         url('../font/Quicksand-Bold/fonts/QuicksandBold.svg#QuicksandBold') format('svg');
+}
+@font-face {
+    font-family: 'MuliRegular';
+    src: url('../font/Muli-Regular/fonts/MuliRegular.eot');
+    src: url('../font/Muli-Regular/fonts/MuliRegular.eot') format('embedded-opentype'),
+         url('../font/Muli-Regular/fonts/MuliRegular.woff2') format('woff2'),
+         url('../font/Muli-Regular/fonts/MuliRegular.woff') format('woff'),
+         url('../font/Muli-Regular/fonts/MuliRegular.ttf') format('truetype'),
+         url('../font/Muli-Regular/fonts/MuliRegular.svg#MuliRegular') format('svg');
+}

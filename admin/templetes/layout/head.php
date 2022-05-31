@@ -1,0 +1,30 @@
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="../assets/images/nina.png" rel="shortcut icon" type="image/x-icon" />
+	<title>Administrator - NINA VIỆT NAM</title>
+
+	<!-- Css all -->
+	<!-- Css Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+
+<!-- Css Files -->
+<link href="../assets/fontawesome512/all.css" rel="stylesheet">
+<link href="../assets/css/animate.min.css" rel="stylesheet">
+<link href="../assets/confirm/confirm.css" rel="stylesheet">
+<link href="../assets/select2/select2.css" rel="stylesheet">
+<link href="../assets/sumoselect/sumoselect.css" rel="stylesheet">
+<link href="../assets/datetimepicker/jquery.datetimepicker.css" rel="stylesheet">
+<link href="../assets/daterangepicker/daterangepicker.css" rel="stylesheet">
+<link href="../assets/rangeSlider/ion.rangeSlider.css" rel="stylesheet">
+<link href="../assets/filer/jquery.filer.css" rel="stylesheet">
+<link href="../assets/filer/jquery.filer-dragdropbox-theme.css" rel="stylesheet">
+<link href="../assets/holdon/HoldOn.css" rel="stylesheet">
+<link href="../assets/holdon/HoldOn-style.css" rel="stylesheet">
+<link href="../assets/simplenotify/simple-notify.css" rel="stylesheet">
+<link href="../assets/comment/comment.css" rel="stylesheet">
+<link href="../assets/css/adminlte.css" rel="stylesheet">
+<link href="../assets/css/adminlte-style.css" rel="stylesheet">
+</head>

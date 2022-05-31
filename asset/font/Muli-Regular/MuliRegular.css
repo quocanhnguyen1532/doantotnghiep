@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MuliRegular';
+    src: url('fonts/MuliRegular.eot');
+    src: url('fonts/MuliRegular.eot') format('embedded-opentype'),
+         url('fonts/MuliRegular.woff2') format('woff2'),
+         url('fonts/MuliRegular.woff') format('woff'),
+         url('fonts/MuliRegular.ttf') format('truetype'),
+         url('fonts/MuliRegular.svg#MuliRegular') format('svg');
+}
